@@ -1,0 +1,111 @@
+# 6.pdf
+共 3 页
+
+
+## 第 1 页
+Chapter 6 Sense Relations
+Chapter 6 Sense Relations
+I. Introduction
+Words are related to one another in a variety of ways. These relationships have words to
+describe them that often end in the bound morpheme –nym
+It may be more accurate to think of the lexicon as network, rather than a listing of words as in
+a published dictionary.
+Words are in different relations with each other, so they can be grouped in terms of their
+relationship to each other. Synonymy, antonymy, polysemy, homonymy and hyponymy are
+commonly accepted as the major possible relationships between words.
+Synonymy 同义关系 synonym 同义词
+Antonymy 反义关系 antonym 反义词
+Polysemy 多义关系 polyseme 多义词
+Homonymy 同音/形异义关系
+homonym 同音同形异义词homograph 同形异义词homophone 同音异义词
+Hyponymy 上下义关系 superordinate or hypernym 上义词hyponym下义词
+ Taxonymy 分类关系superordinate 上类词 taxonym 分类词
+ Meronymy 部整关系 holonym 总项词 meronym 分项词
+II. Synonymy
+Synonymy refers the exact sameness or close similarity of meaning. Words that are close in
+meaning are called synonyms.
+Synonyms are traditionally defined as words different in sound and spelling but identical or
+similar in meaning.
+Why so many synonyms?
+English is a language particularly rich in pairs of synonyms. The primary reason for this has to
+do with the history of language and especially with the wholesome borrowing from other
+languages..
+Generally speaking, the native words are the simplest and most ordinary and tends to belong
+to the ordinary colloquial language; The Greek or Latin borrowings are the most learned, most
+formal and most technical and they tend to be used in the most formal context; French borrowings
+stands between the native words and the Latin and Greek borrowings.
+It is obvious that words are synonymous or similar in meaning only in a certain sense, not in
+all their meanings.
+1 By Min Chen
+
+## 第 2 页
+Chapter 6 Sense Relations
+Two types of synonymy:
+‘strict’ or ‘absolute’ synonymy and ‘loose’ or ‘relative’ synonymy
+ Strict synonyms refer to two words which are identical in meaning in all its aspects. They are
+interchangeable in all contexts. The different choice would have no effect on the meaning,
+style or connotation.
+Strict synonyms are very rare, found only in words with a rather narrow range of senses. Thus
+some linguists even argue that strict synonyms do not exist.
+Strict synonyms is uneconomical; it creates unnecessary redundancy in a language.
+ When we speak of synonymy, we mean ‘loose’ or ‘relative’ synonymy, where we find not
+only a significant overlap in meaning between two words, but also some contexts where
+they cannot be used interchangeably.
+John found/discovered the basketball in the grass.
+Maria Curie discovered radium in 1898.
+*Maria Curie found radium in 1898.
+Difference Among Synonyms
+We often take the following things into consideration when we try to find the differences between
+synonyms.
+Different English dialects
+Different stylistic meanings
+Different connotative meanings
+Different collocative meanings
+III. Antonymy
+Antonymy is a relationship of ‘meaning opposition’ that may hold between two words.
+Antonyms can be defined as words which are opposite in meaning.
+Major types of antonyms：
+1) Gradable antonyms: gradable antonyms represent a more/less relation. The words can be the
+end-points of a continuum（连续体）. Since they are gradable, they allow comparison.
+2) Contradictory or complementary antonyms: These pairs are called contradictory antonyms
+because they represent an either/or relation. The assertion of one implies the denial of the other.
+They are non-gradable, so they do not allow comparison.
+3) Converse antonyms: converse antonyms represent two-way contrasts. They are relational
+antonyms (one presupposes the other).
+2 By Min Chen
+
+## 第 3 页
+Chapter 6 Sense Relations
+IV. Polysemy
+When a word is first coined, it is always the case that it has only one meaning (monosemic).
+But in the course of development, the same symbol may be used to express new meanings. The
+result is polysemy.
+Polysemy shows the economy and efficiency of human languages.
+There are two important processes in the development of meaning:
+◙ Radiation（辐射式）
+◙ Concatenation（连锁式）
+V. Homonymy
+Homonymy is the relation between two or more words that are spelled or pronounced in the
+same way but differ in meaning. Such words are called homonyms.
+Homonyms are considered different lexemes, primarily for the reason that they have
+unrelated meanings and different origins.
+There are several types of homonyms, in terms of the way of sameness:
+◙ lie vi. / lie vi. — perfect homonyms
+◙ tear n. / tear vt. — homographs
+◙ coarse / course — homophones
+Differentiation of homonyms from polysemous words:
+1) etymology
+2) semantic relatedness
+VI. Hyponymy
+Hyponymy is the sense relationship of inclusion that relates words hierarchically. The
+underlying observation is that some words have a more general meaning, while others have a more
+specific meaning, though referring to the same entity.
+In semantics this relationship is described according to unilateral implication（单边/单向的
+包蕴关系）.
+Two special cases:
+1) Taxonymy is the relationship in which “X is a kind of Y” (Cruse 1986). Not all hyponyms
+are good taxonyms. Focal orientation; distinctive feature
+2) Different from the kind-of relation displayed by hyponymy, meronymy involves
+part-whole relation between words.
+arm: body wheel: car
+3 By Min Chen

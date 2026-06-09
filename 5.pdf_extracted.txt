@@ -1,0 +1,171 @@
+# 5.pdf
+共 5 页
+
+
+## 第 1 页
+Chapter 5 Word Meaning and Componential Analysis
+Chapter 5 Word Meaning and Componential Analysis
+1. Word Meanings
+1.1 Denotation and Reference
+Denotation: the relationship that holds between that lexeme and persons, things, places,
+properties, processes and activities external to the language system.
+外延是指一个语言单位（特别是词项）与其所指的非语言实体间的关系（即语言表达与
+其在语言系统之外的现实世界中所指事物之间的关系），因此相当于指称义。
+Reference: the relationship that holds between an expression and what that expression stands
+for on particular occasions of its utterance.
+reference 指语言表达与具体现象之间的关系，即具体语境中的语言表达与外部事物间的
+关系。
+1.2 Denotation and Sense
+Sense: the relationship between the words or expressions of a single language. It denotes the
+relationship inside the language. The sense of an expression is its place in a system of semantic
+relationships with other expressions in the language.
+涵义是指语言内部的关系系统，即语言内部一个词项与其他词项相联系。涵义独立于语
+言表达与指称对象间的指称关系。
+Every word that has meaning has sense but not every word has denotation; besides, the
+expressions with different senses may have the same denotation.
+e.g., There is no such animal as a unicorn.
+Morning Star is the Evening Star.
+Aristotle is the teacher of Alexander.
+2. Motivation
+ How do words get meaning?
+2.1 Conventionality:
+Most English words are conventional, arbitrary symbols. There is no connection between the
+word form and its meaning.
+2.2 Motivation:
+Some English words are motivated symbols. There is some connection between the word
+form and its meaning.
+ Onomatopoeic motivation
+Words motivated phonetically are called echoic or onomatopoeic words, whose pronunciation
+1 By Min Chen
+
+## 第 2 页
+Chapter 5 Word Meaning and Componential Analysis
+suggests the meaning.
+ They show a close relation of sound and meaning.
+ Many onomatopoeic words imitate natural sounds.
+ Morphologic motivation
+Morphologic motivation means that the meaning of some words can be inferred from the
+meaning of the affixes, roots, or other parts of the words.
+ Semantic motivation
+It refers to the mental associations suggested by the conceptual meaning of a word. It explains
+the connection between the literal sense and figurative sense of the word.
+ Etymologic motivation
+The origins of words throw light on their meanings. All the words commonized from proper
+names can be explained in terms of their origins（专有名词普通化）.
+ Analogical Motivation
+ Words are created in imitation of other words
+telethon, talkathon: from marathon
+ Colour analogy
+black list, white list, gray list
+ Number analogy
+First family, first lady, the Fourth world
+ Place and space analogy
+landscape: moonscape, marscape
+3. Types of Meaning
+3.1 Conceptual Meaning（概念意义）
+Conceptual meaning (also called denotative or cognitive meaning): is meaning given in the
+dictionary and forms the core of word meaning. 概念意义是一个词的中心意义或核心意义，它直
+接、明确地表示所指对象，因此又被称为“外延意义”。
+3.2 Associative meaning（联想意义）
+Associative meaning: is the secondary meaning supplemented to the conceptual meaning.
+联想意义是指词汇的附带意义，与概念意义一起构成词汇意义。
+Associative meaning can be reflected by connotative meaning, affective meaning, collocative
+meaning and social meaning.
+2 By Min Chen
+
+## 第 3 页
+Chapter 5 Word Meaning and Componential Analysis
+3.2.1 Connotative Meaning（内涵意义）
+Connotative Meaning: the communicative value of an expression by virtue of what it refers to,
+over and above its purely conceptual content, or the additional meaning of the conceptual meaning.
+Connotative Meaning is not an essential part of the word meaning, but social and cultural values
+that might occur in the mind of particular users of the language. 内涵意义是指通过语言所指事物
+来传递的意义，是除“概念意义”以外的附加意义，因此具有交际的价值。
+3.2.2 Social or Stylistic Meaning（社会意义）
+Social meaning refers to the kind of meaning a piece of language conveys about the social
+circumstance of its use.
+From the use of words we can recognize the geographical, social origin of the speaker, or the
+social relationship between the speaker and hearer. Besides, words vary in style, usually ranging on
+a continuum from casual or colloquial to formal or polite according to the type of communicative
+situation.
+3.2.3 Affective Meaning（情感意义）
+Affective meaning expresses the speaker’s or the writer’s personal feelings and attitudes.
+In English, some words can express the speakers’ approval or disapproval of the persons or
+things he is talking about.
+ Words that show speakers’ approval are purr words (appreciative term).
+ Words that show speakers’ disapproval are snarl words (pejorative term).
+3.2.4 Reflected Meaning（反映意义）
+Reflected meaning is the meaning which arises in cases of multiple conceptual meanings,
+when one sense of a word forms part of our response to another sense. It is the product of people’s
+recognition and imagination. 反映意义是指能引起听者或读者联想的意义，即“当一个词的一
+种意义构成我们对这个词的另一种意义的反应的一部分时，便产生反映意义”。
+3.2.5 Collocative Meaning（搭配意义）
+Collocative meaning consists of the associations a word acquires on account of the meaning of
+words which tend to occur in its environment. In other words, it is the part of the word meaning
+suggested by the words with which it co-occurs.
+3.3 Thematic Meaning（主题意义）
+Thematic Meaning: the meaning arising out of the way in which the writer or speaker
+organizes his message, in terms of sentence sequence, emphasis, focus of information.
+主题意义是指说话者或作者借助组织信息的方式（语序、强调手段、信息焦点的安排）来传
+递的一种意义。
+ Information Structure: THEME + RHEME
+3 By Min Chen
+
+## 第 4 页
+Chapter 5 Word Meaning and Componential Analysis
+ THEME: the word or phrase put in the first position in a clause (the point of departure of
+the message)
+ RHEME: the remainder of the message (the part in which the Theme is developed)
+4. Analysis of Word Meanings
+4.1 Semantic Field（语义场）:
+Semantic Field Theory 又称作lexical field theory（词汇场理论），是德国结构主义语言学家
+J. Trier 提出。
+ The theory is concerned with the vocabulary of a language as a system of interrelated lexical
+networks.
+ Semantic field theory took the view that the vocabulary of a given language is not simply a
+listing of independent items, but is organized into areas, or fields, within which words interrelated
+and define each other in various ways.
+语义场是指在所指层面上，把一群有某一共同语义特征的词汇单位聚集在一块而组成的
+一组词，他们相互界定语义特征，也与其他义场的边沿成分区别开来。
+4.2 Componential Analysis（语义成分分析法）:
+In order to conduct a closer analysis of word meanings, some linguists segment the
+composition of word meaning, trying to find some common semantic components for the analysis.
+From this, a semantic theory is formulated that all lexical items can be analyzed into a set of
+semantic features or semantic components which may be universal. This is termed Componential
+Analysis (CA), a process of breaking down the sense of a word into its minimal components (Leech
+1981).
+课后练习答案：
+11.
+No Appreciative Neutral Pejorative
+1 particular Fastidious / fussy
+2 critical fault-finding / picky
+3 style/vogue fad
+4 artful cunning / sly
+5 unstable fickle/capricious
+6 developing underdeveloped / backward
+7 encourage/ promote instigate
+8 group clique/gang
+4 By Min Chen
+
+### 表格 1
+
+| No | Appreciative | Neutral | Pejorative |
+|---|---|---|---|
+| 1 |  | particular | Fastidious / fussy |
+| 2 |  | critical | fault-finding / picky |
+| 3 |  | style/vogue | fad |
+| 4 | artful |  | cunning / sly |
+| 5 |  | unstable | fickle/capricious |
+| 6 | developing |  | underdeveloped / backward |
+| 7 | encourage/ promote |  | instigate |
+| 8 |  | group | clique/gang |
+
+## 第 5 页
+Chapter 5 Word Meaning and Componential Analysis
+14. bull [-HUMAN +MALE +ADULT +BOVINE]
+cow [-HUMAN -MALE +ADULT +BOVINE]
+calf [-HUMAN OMALE -ADULT +BOVINE]
+rooster [-HUMAN +MALE +ADULT +GALLINE]
+hen [-HUMAN -MALE +ADULT +GALLINE]
+chicken [-HUMAN OMALE -ADULT +GALLINE]
+5 By Min Chen

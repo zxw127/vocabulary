@@ -1,0 +1,187 @@
+# 3.pdf
+共 6 页
+
+
+## 第 1 页
+Chapter 3 Morphological Structure of English
+Chapter 3 Morphological Structure of English
+1. Introduction:
+ Language can be defined as “an arbitrary vocal system used for human communication”. By
+system we mean that the elements in a language are arranged according to certain rules, but not
+at random.
+ Language presents itself as a hierarchy in different aspects. Elements at a lower level are thus
+combined according to certain rules to form elements at a higher level. As is shown in the
+following hierarchical rank scale, language rises from morpheme at the bottom up to the
+sentence at the top in terms of lexicography.
+2. Morpheme, Lexeme and Morph:
+2.1 Morpheme
+2.1.1 Is a Word the Most Basic Unit of Meaning?
+Words are usually treated as the basic and minimal units of a language to make sentences,
+which are combinations of words according to syntactic rules. But is a word the most basic unit of
+meaning?
+Words are not the basic meaningful elements of a language, since some words contain several
+distinct units of meaning. The linguistic term for the most elemental unit of grammatical form is
+morpheme. The word is derived from the Greek word morphe, meaning “form”.
+2.1.2 What is Morpheme?
+Syntactically, “morpheme is the ultimate (the most basic/elementary) grammatical constituent,
+the smallest meaningful unit of language”. In other words, a morpheme is the minimal form of
+grammatical analysis.
+In view of word-formation, morpheme can be defined as “the smallest functioning unit in the
+composition of words, not divisible or analyzable into smaller forms” (Crystal 1985). 词素是构词
+时起作用的最小单位。
+Morpheme vs. Word:
+Morphemes occur in speech only as constituent parts of words. They can not be used
+independently, although a word may consist of a single morpheme. Nor are morphemes divisible
+1 By Min Chen
+
+## 第 2 页
+Chapter 3 Morphological Structure of English
+into smaller meaningful units. That is why the morpheme may be defined as the minimum
+meaningful language unit.
+Morpheme vs. Syllable:
+The word lady can be divided into two syllables (la‧dy), but it consists of just one morpheme,
+because a syllable is a unit of only sound, has nothing to do with meaning.
+The word books contains only one syllable, but it consists of two morphemes (book-s) (Notice:
+the morpheme –s has a grammatical meaning indicating plurality)
+2.2 Types of Morphemes:
+2.2.1 Free Morphemes and Bound Morphemes
+Let us see an example. The word reader can be divided into read and –er. However, read
+cannot be split into smaller morphemes. This means that the word read is itself a single morpheme.
+To put it simple, a morpheme which can stand alone as a word is called a free morpheme. By
+contrast, -er has to combine with other morphemes. So it is a bound morpheme.
+Free morphemes: are the morphemes which are independent of other morphemes. That is to
+say, a free morpheme need not be attached to other morphemes; it is one that may constitute a word
+(free form) by itself. Free morphemes have complete meanings in themselves and can be used as
+free grammatical units in sentences.
+自由词素是具有完整的词汇意义，能够单独构成一个词的词素，而且可以作为自由的语
+法单位独立使用。因此，在这一意义上，自由词素等同于词。
+Bound morphemes: are the morphemes that can not occur as separate words. They are so
+named because they are bound (attached) to other morphemes to form words or to perform a
+particular grammatical function; they must appear with at least one other morpheme, free or bound.
+Unlike free morphemes, they do not have independent semantic meaning; instead, they have
+attached meaning or grammatical meaning. 不具有独立意义，只具有附加意义或语法意义。
+2.2.2 Derivational Morphemes and Inflectional Morphemes
+Derivational morphemes: are morphemes used to derive new words. In English, derivatives
+and compounds are all formed by such morphemes. A derivational morpheme can change the
+meaning or the word class, or both the meaning and word class of a word; many derivational
+morphemes have a specific lexical meaning. It can be both prefixes and suffixes.
+Inflectional morphemes: in contrast, are morphemes used to indicate the syntactic
+relationships between words and function as grammatical markers.
+The inflectional morpheme does not form a new word with a new lexical meaning when it is
+added to another word. Nor does it change the word-class of the word to which it is affixed. It just
+adds some grammatical information to the word. Inflectional morphemes are confined to suffixes.
+2 By Min Chen
+
+## 第 3 页
+Chapter 3 Morphological Structure of English
+2.2.3 Root, Affix, Stem, Base
+Alternatively, morphemes may be also divided into roots (or root morphemes) and affixes (or
+affixational morphemes).
+Affix（词缀）:
+Affixes are morphemes which only occur when attached to other morphemes. By definition
+affixes are bound morphemes.
+There are three types of affixes: prefix, suffix and infix. A prefix is an affix attached before a
+root, and a suffix after a root. An infix is an affix inserted into the root itself. Infixing is very rare in
+English; the only infix that occurs in English morphology is -m- which is inserted before the last
+consonant of the root in a few words of Latin origin.
+Root:
+As defined by Bauer:
+“A root is a form which is not further analyzable, either in terms of derivational or inflectional
+morphology. It is that part of a word form that remains when all the inflectional and derivational
+affixes have been removed. A root is the basic part always present in a lexeme.” (Bauer 1983:20)
+A root is the basic unchangeable part of a word, and covers the main lexical meaning of the
+word. That is to say, a root is the part of the word left, whether free or bound, when all the
+inflectional and derivational affixes are removed. It carries the main component of meaning in a
+word. Roots are, therefore, the cores of English words.
+Historically, the root is the earliest form of a word. Roots are either free or bound:
+Free and Bound Root:
+All morphemes are bound or free. Affixes are bound morphemes. Root morphemes, can be
+bound or free.
+Some examples of bound roots:
+基本意义单位 符号（词） 符号（词根）
+ 人 man anthro anthropology, philanthropy
+ 花 flower anth(o) anthesis, chrysanthemum
+ 时 time chron chronic, synchronic
+ 色 colour chrom chromatic，bichrome
+ 水 water hydr(o) hydrate, hydroelectric
+ 石 stone lith/lite(o) aerolith, neolith, paleolith
+ 牙 tooth dent(i) dentist, dentiform
+ 头 head cephal cephalalgia，cephalitis
+ 脚 foot ped uniped, pediform
+ 音 sound phon phonetics, microphone
+3 By Min Chen
+
+## 第 4 页
+Chapter 3 Morphological Structure of English
+ 日 sun sol solar, insolation
+ 月 moon lun lunar, lunatic
+ 星 star astro(er) astrology, astronomy
+ 世界 world cosm(o) cosmic, cosmopolis
+ 生命 life bi(o) biotic, antibiotic
+ 中心 center center central, eccentric
+Stem:
+Bauer defines “stem” as follows:
+“A stem is of concern only when dealing with inflectional morphology. ... Only Inflectional (but
+not derivational) affixes are added to it: it is the part of the word form which remains when all the
+inflectional affixes have been removed.” A stem is any morpheme or combination of morphemes to
+which an inflectional affix can be added. 词干是指一个词去掉其所有屈折词缀后剩下的部分。
+Base:
+A base is a lexical item to which affixes of any kind (including both derivational and inflectional)
+can be added. It may also be defined as “a form to which a rule of word formation is applied”.
+词基是指一个词内可以对其进行操作的任一单位。
+2.2.4 Content and Grammatical Morphemes
+On a semantic and syntactic basis, morphemes can fall into content and grammatical
+morphemes.
+Content morphemes are lexical morphemes used to derive new words, so also known as
+derivational morphemes (free or bound, with lexical content).
+Grammatical morphemes function primarily as grammatical markers (inflectional affixes,
+and free morphemes such as in, and, do, have, they, while, where, but and that, functional words).
+[Sum-up]:
+4 By Min Chen
+
+## 第 5 页
+Chapter 3 Morphological Structure of English
+2.3 Morph and Allomorph
+2.3.1 Morph（形素）
+Any concrete realization of a morpheme in a given utterance is called a morph, such as cat,
+chair, -ing, -s, etc. Morphemes are abstract units, which are realized in speech by discrete units,
+known as morphs, a physical form. Morphs are actually spoken, minimal carriers of meaning. 形素
+是词素在言语中的具体实现。词素是抽象单位，在言语中实现为一些离散单位，即形素（具
+体的形式）。
+2.3.2 Allomorph（语素/词素变体）
+Most morphemes are realized in speech by single morphs like bird, tree, green, desire, want,
+etc. Some morphemes, however, are realized by more than one morph, depending on the context in
+which they occur. A morpheme may have different morphological forms or phonetic forms in
+different contexts. 指同一个语素的各种形式，即语素在实际使用时的体现。有些语素在不同的
+语境中体现为不同的语素形式。
+Allomorphs are the alternate morphological and phonetic forms of the same morpheme, for
+example, [t], [d] and [id] are allomorphs of the past tense morpheme in English.
+2.4 Lexeme, Word Form, Lexical Entry (Optional)
+2.4.1 Lexeme
+Lexeme is also an important concept in lexicology.
+ Lexeme is a basic unit of lexical meaning, an abstract linguistic unit with different
+variants, for example, sing as against sang, sung. 词位指一种语言意义体系中词汇的基
+本单位，是拥有不同变体的一种抽象的语言单位。
+1) Why it is abstract?
+Lexeme is a word in the sense of an item of vocabulary that can be listed in the ideal dictionary.
+It is an abstract vocabulary item, and doesn’t exist in the language use.
+2) What does a lexical unit with different variants mean?
+Lexeme is an abstract vocabulary item with a common core of meaning, and can be realized by
+different word forms. Put it in another way, lexeme is a set of linguistic signs which share the same
+lexical meanings but different in their grammatical meanings.
+3) What does a linguistic unit mean?
+Lexeme exists regardless of any inflectional endings it may have or the number of words it
+may contain. Some set expressions would be each considered a single lexeme.
+5 By Min Chen
+
+## 第 6 页
+Chapter 3 Morphological Structure of English
+2.4.2 Word Form
+Word form is the realization (representation or manifestation) of the lexeme. Equivalently, it is
+the inflected forms of a lexeme.
+An illustration of the relationship between lexeme and word form:
+Word-forms Lexeme
+ see, seeing, saw, seen SEE
+ tall, taller, tallest TALL
+ boy, boys BOY
+6 By Min Chen

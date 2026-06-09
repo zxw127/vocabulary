@@ -1,0 +1,320 @@
+# 2.pdf
+共 9 页
+
+
+## 第 1 页
+Chapter 2 The Origin of English Words
+Chapter 2 The Origins of English Words
+1. Introduction
+1.1 Classification of Languages
+1.1.1 Typological Classification（类型分类法）：
+1） 根据词汇的形态特征进行分类：
+可分为四类：孤立语（isolating language词根语），粘着语（agglutinating language），屈折语
+（inflecting language），多式综合语（incorporating language）；粘着语和屈折语又可统称为综
+合语（synthetic language）。
+孤立语：一般说来，每个词只含一个语素；其特点不是通过词的内部形态变化来表达语法作
+用，而是通过虚词和词序来表达。越南语被认为是最接近孤立语的一种语言，彝语、壮语、
+苗语也属于孤立语的范畴。
+粘着语和屈折语（综合语）：一个词通常由一个以上的语素构成；其特点是有词的形态变化，
+语法关系通过词的形态变化来表示。两者间的区别在于语素之间的结合方式不同：在粘着语
+中，语素间的界线非常分明；而在屈折语中，却没有分明的界线。大部分的欧洲语言属于综
+合语。
+多式综合语：是一种更高程度的综合语，许多美洲原住先民的语言属于多式综合语，如印第
+安语。
+尽管汉语中有一些属于综合语的形态成分，但一般认为汉语更接近于孤立语。与欧洲其
+他许多语言相比，英语的词汇形态也偏向孤立语型，但与汉语相比，却更偏向于综合语型，
+因为综合语的特点是词缀丰富。从派生词和复合词所占比重来看，派生词在英语中的比例远
+高于汉语，而复合词的比例在汉语中高于英语。
+2）根据语言的句法特征进行分类：
+这种分类方式把语言分为：综合语和分析语
+Synthetic language（综合语）：shows the relation of words by inflection；日语、俄语、德语、
+印地语属于综合语（包括屈折语、粘着语和多式综合语）。
+Analytic language（分析语）：indicates the relation of words in a sentence by word order；汉语、
+英语、法语、保加利亚语属于分析语（仅包括孤立语）。
+1.1.2 Genetic Classification（谱系分类法）
+根据语言的共同来源和亲属关系可将分为：Sino-Tibetan（汉藏语系），Indo-European（印
+欧语系），Semito-Hamitic（闪含语系），Bantu（班图语系），Uralic（乌拉尔语语系），Altaic
+（阿尔泰语系），Malayo-Polynesian（马来-波利尼西亚语系），Indian（印第安语系）， Caucasian
+Family（高加索语系），Austronesian family（南岛语系），Austro-Asiatic Family（南亚语系）。
+1 By Min Chen
+
+## 第 2 页
+Chapter 2 The Origin of English Words
+1.2 The Indo-European Language Family
+It is assumed that the world has nearly 3,000 languages, which can be grouped into roughly
+300 language families on the basis of similarities in their basic word stock and grammar. Chinese
+is a member in the Sino-Tibetan Family, while English is a member in the Indo-European Family.
+The Indo-European is made up of most of the languages of Europe, the near East, and India.
+Linguists have divided the Indo-European languages into several groups（语族）, and then
+subdivided the different groups into branches（语支）.
+The Indo-European languages accordingly fall into an Eastern set: Balto-Slavic（波罗的—斯
+拉夫语族）, Indo-Iranian（印度—伊朗语族）, Armenian and Albania; a Western set: Celtic, Italic,
+Germanic, Hellenic（古希腊语族）, Hittite and Tocharian.
+In the Eastern set, Armenian and Albania are the sole modern language in the two respective
+families. The Balto-Slavic comprises such modern languages as Russian, Prussian, Lithuanian,
+Polish, Czech, Bulgarian and Slovenian. In the Indo-Iranian are found Persian, Bengali, Hindi,
+Romany.
+In the Western set, Hittie and Tocharian find no descendants of their own and Greek is the
+modern language derived from Hellenic. In the Celtic, we find Scottish, Irish, Welsh, Breton,
+Cornish and Pictish. The Latin language and the five Romance languages, namely, Portuguese,
+Spanish, French, Italian and Roumanian, all belong to the Italic. Finally comes the Germanic
+family, which is our chief concern as English and its nearest relations are all members of this
+family. First, we have the four Northern Germanic: Norwegian, Icelandic, Danish and Swedish,
+which are generally known as Scandinavian languages. Then come the four Western Germanic,
+German, Dutch, Flemish and English.
+2 By Min Chen
+
+## 第 3 页
+Chapter 2 The Origin of English Words
+2. A Historical Overview of the English Vocabulary
+2.1 Old English Period (450-1066): also called the Anglo-Saxon Period
+2.1.1 Historical Development
+The First Inhabitants: Celts, also called Britons are believed to be the first people who inhabited
+the land that was later to become England; Their language — Celtic is still another branch of the
+Indo-European language family.
+The Roman Invasion: In 55—54 B.C. the Romans led by Julius Caesar the Great invaded the
+British Isles, and then occupied the land from A.D. 43 until 410. The Latin of the Roman Legions
+became the second major language known in England.
+The Invasion of Anglo-Saxons: The withdrawal of Roman troops invited the invasion by the
+Picts and Scots from the North. The Celts appealed to Germanic warriors for assistance in
+defending their land. Soon the Germanic tribes, called Angles, Saxons and Jutes poured in great
+numbers. The new allies of the Celts became their conquerors, and took permanent control of
+England. Their language, historically known as Anglo-Saxon, dominated and almost totally
+blotted out the Celtic. It is at this time (about 450 AD) when the English language began.
+2.1.2 Two events in the Old English Period
+1) The introduction of Christianity: In the 6th century, Latin-speaking Roman missionariescame
+to spread Christianity in Britain. The introduction of Christianity had a great impact on the English
+vocabulary.
+It brought many new ideas and customs and also many religious terms from Latin.
+2) The Northman Invasion (the 9th century): the land was invaded again by Norwegian and
+Danish Vikings. They came first to plunder, then to conquer. With the invaders, many
+Scandinavian words came into English.
+2.1.3 Characteristics of Old English
+• In Old English period, there is a frequent use of coinages known as ‘kennings’, which
+refers to vivid figurative descriptions often involving compounds.
+• The absence of a wide-ranging vocabulary of loanwords force people to rely more on
+word-formation processes based on native elements.
+• Old English was a highly inflected language just like modern German. Nouns, pronouns,
+adjectives, verbs and adverbs have complex endings or vowel changes, or both.
+• Old English is believed to contain about 24,000 different lexical items. However, old
+English differs greatly from the language we use today.
+3 By Min Chen
+
+## 第 4 页
+Chapter 2 The Origin of English Words
+2.2 The Middle English Period (1066-1500):
+2.2.1 The Norman Conquest:
+ The Normans invaded England from France in 1066.
+The Norman French imposed a new political and cultural life on the land of Anglo-Saxon,
+and changed greatly the development of the English language. The Norman Conquest virtually
+introduced French-English bilingualism into England. The situation of the simultaneous existence
+of three languages (French-English-Latin) continued for over a century.
+ The Old English began to undergo much change when the Norman Conquest started a
+continual flow of French words into English. The Norman dialect of French became the language
+of the upper class, while English completely lost its scholarly and literary importance.
+ By the end of the 11th century, almost all of the people who held political or social power
+and many of those in powerful church positions were of Norman French origin. This resulted in a
+massive borrowing of French words into English vocabulary.
+ By the end of the 13th century, English gradually came back into the schools, the law courts,
+and government and regained social status thanks to Wycliffe translation of the Bible and the
+writings of Chaucer.
+2.2.2 Characteristics of Middle English
+ The development was the steady erosion of the Old English inflectional systems. Middle
+English retained much fewer inflections, with a standard word order making up for their loss. If
+we say old English was a language of full endings, Middle English was one of leveled endings.
+ A lot of French words poured into English, covering every aspect of culture and society.
+ Latin words continued to make their way into the English language.
+[Sum-up]:
+ In Middle English period, English grammar and vocabulary changed greatly. In grammar,
+English had changed from a highly inflected language to an analytic language. In vocabulary
+English was characterized by the loss of a large part of the Old English word-stock and the
+addition of thousands of words from French and Latin. 如果说古英语与其他日耳曼语族的语言
+（如德语）一样是典型的综合语，那么到了中古英语末期，英语已逐渐具有孤立语（如汉语，
+孤立语是一种分析语，通过词序来表达句法特征）的特性。
+2.3 Early Modern English Period (1500-1800): the transitional period from Middle English to
+Modern English
+The Printing Revolution: In 1476, Caxton set up his press in Westminster, standardize the
+spelling and pronunciation of English.
+The Renaissance: From the middle of the 15th century until 1650, Europe saw a new upsurge of
+4 By Min Chen
+
+## 第 5 页
+Chapter 2 The Origin of English Words
+learning ancient Greek and Roman classics (literature), which known in European history as the
+Renaissance.
+The increase in foreign borrowings is the most distinctive feature of the Renaissance English.
+During this period, Latin and Greek were recognized as the languages of the Western world’s great
+literary heritage and of great scholarship.
+Two most important influences: the works of William Shakespeare (1564-1616) and the King
+James Bible of 1611.
+The Publishing of the Dictionary of the English Language:
+In 1755, Samuel Johnson, A Dictionary of the English Language.
+Characteristics of Early Modern English
+In Early Modern English period, English vocabulary grew very fast through extensive
+borrowing and expansion of word-formation patterns.
+And there was a great many semantic changes, as old words acquire new meanings.
+2.4 The Modern English Period (1800-Now):
+The Industrial Revolution: With the growth of colonization, British tentacles began stretching
+out to every corner of the globe. English began to absorb words from all major languages of the
+world. The territorial expansion of the English Empire resulted in the expansion of English words.
+Great advances in science and technology: Since the beginning of the last century, esp., after
+World War II, the world has seen breathtaking advances in science and technology. As a result,
+thousands of new words have been created to express new ideas, inventions, and scientific
+achievements.
+In Modern English, inflectional word endings were mostly lost. Modern English is
+characterized with three main features:
+1) The unprecedented growth of scientific vocabulary;
+After World War II, neologisms (new words or new meanings for established words)（新词语）
+swept in at any rate much faster than that of the pre-war period.
+The development of science, the rapid changes in society, the receptive and flexible nature of
+English with regard to the influence of other cultures and languages---all these have resulted in a
+dramatic increase in vocabulary, a growth which in turn contributes to the richness and
+resourcefulness of the English language.
+2) The assertion of American English as a dominant variety of the language;
+3) The emergence of other varieties known as ‘New Englishes’.
+General Characteristics
+ From a synthetic language to the present analytic language
+5 By Min Chen
+
+## 第 6 页
+Chapter 2 The Origin of English Words
+ Receptivity（接受性）, Adaptability（适应性）and Heterogeneity（多质性）.
+ Simplicity of Inflection (the progressive decay of inflections has become one of the
+developments that mark the evolution of English in its various stages):
+Old English: full endings; Middle English: leveled endings; Modern English: lost endings
+In Old English, which was a synthetic language, the grammatical relationships of words in
+sentences were indicated by the changes of word endings, which are now reduced to minimum.
+ Relatively Fixed Word-order: In the inflected language, the arrangement of words is fairly
+free, as the inflections show clearly the proper relationship in the sentence, and ambiguity is
+unlikely. But in an analytic language like Modern English, the word-order is required to be
+relatively fixed. The semantic relation is closely connected to the positions of the words.
+The change of word order may result in a change of meaning.
+3. The Major Variety — American English:
+The historical background of American English
+美国英语源于伊莉莎白时期的英语，其历史和美国的移民史有着非常密切的联系。
+ 1607年，约翰•史密斯（John Smith）建立了詹姆斯城（Jamestown）；1620年， “五
+月花号”（Mayflower），普利茅斯（Plymouth）殖民地。
+ 当时的英国正处于伊莉莎白一世时期。 在最早移居新英格兰的清教徒将伊莉莎白
+时期的英语带到了北美新大陆，成为美国英语的起点。
+ 1806年，诺亚•韦伯斯特（Noah Webster）等人首次提出确立American English的主
+张。1828年，由韦伯斯特花费后半生心血编写的《美国英语词典》，即第一部现代《韦氏词
+典》，一直被后人看成是美国英语形成的重要标志。
+Characteristics of American English
+一般来说，语言的发展发生在语音 (sound)、语法 (grammar)、词汇 (vocabulary) 三个
+方面。美国英语主要有以下几大特色：
+ 美国英语对古英语特征的保留（conservation）：
+美国英语是在 17 世纪英格兰所用的语言，即莎士比亚､弥尔顿､班扬时期所用的语言基
+础上发展起来的。与现在标准的伦敦英语相比，美国英语具有很大的古老性（archaic
+features）。
+ 美国英语丰富的创造性（innovation）：
+创造一些原本根本不存在的新词 (invention)，如：bellhop, debunk, skyscraper 等。
+ 美国英语对多民族语言的吸收：
+美国民族向来被誉为“大熔炉”（the melting pot），因此美国英语也具有“大熔炉”的特点。
+美国人在与各民族人民的接触中吸收了大量的他族语言，如印第安语、荷兰语、德语、法语、
+西班牙语等。
+6 By Min Chen
+
+## 第 7 页
+Chapter 2 The Origin of English Words
+ 美国英语对俚语的广泛使用 （The Wide Use of Slang）：
+在美国英语中，最贴近人们生活和最能反映平民要求与社会生活特征的是俚语 (slang)。
+俚语的风格新颖时髦，不落俗套，生动诙谐，表达多样。如：
+严厉批判某人（说某人坏话）to criticize过于平淡，为了别具一格而造出badmouth；
+消防队员（尤指美国森林管理机构的森林灭火员）被形象地喻为smoke eater；
+对男友失约，说stand him up自然要比keep him waiting新颖；
+解雇某人，用dismiss太过陈旧，就用give him the air；
+筋疲力尽，用exhausted显然不如pooped out别致。
+Difference between American English and British English:
+While there are certainly many more varieties of English, American English and British
+English are the two varieties that are taught in most ESL/EFL programs. Generally, it is agreed
+that no one version is "correct" however, there are certainly preferences in use. The three major
+differences between American and British English are:
+ Pronunciation - differences in both vowel and consonants, as well as stress and intonation
+ Vocabulary - differences in nouns and verbs, especially phrasal verb usage
+ Spelling - differences are generally found in certain prefix and suffix forms
+The most important rule of thumb is to try to be consistent in your usage. If you decide that
+you want to use American English spellings then be consistent in your spelling (i.e. The color of
+the orange is also its flavour - color is American spelling and flavour is British), this is of course
+not always easy - or possible. The following guide is meant to point out the principal differences
+between these two varieties of English.
+a. Use of the Present Perfect
+In British English the present perfect is used to express an action that has occurred in the
+recent past that has an effect on the present moment. For example:
+I've lost my key. Can you help me look for it?
+In American English the following is also possible:
+I lost my key. Can you help me look for it?
+In British English the above would be considered incorrect. However, both forms are
+generally accepted in standard American English. Other differences involving the use of the
+present perfect in British English and simple past in American English include already, just and
+yet.
+British English:
+I've just had lunch I've already seen that film Have you finished your homework yet?
+7 By Min Chen
+
+## 第 8 页
+Chapter 2 The Origin of English Words
+American English:
+I just had lunch OR I've just had lunch I've already seen that film OR I already saw that film.
+Have your finished your homework yet? OR Did you finish your homework yet?
+b. Possession
+There are two forms to express possession in English. Have or Have got
+Do you have a car? Have you got a car?
+He hasn't got any friends. He doesn't have any friends.
+She has a beautiful new home. She's got a beautiful new home.
+While both forms are correct (and accepted in both British and American English), have got (have
+you got, he hasn't got, etc.) is generally the preferred form in British English while most speakers
+of American English employ the have (do you have, he doesn't have etc.)
+c. The Verb Get
+The past participle of the verb get is gotten in American English. Example He's gotten much better
+at playing tennis. British English - He's got much better at playing tennis.
+d. Vocabulary
+Probably the major differences between British and American English lies in the choice of
+vocabulary. Some words mean different things in the two varieties for example:
+Mean: (American English - angry, bad humored, British English - not generous, tight fisted)
+Rubber: (American English - condom, British English - tool used to erase pencil markings)
+There are many more examples (too many for me to list here). If there is a difference in usage,
+your dictionary will note the different meanings in its definition of the term. Many vocabulary
+items are also used in one form and not in the other. One of the best examples of this is the
+terminology used for automobiles.
+ American English - hood
+British English - bonnet
+ American English - trunk
+British English - boot
+ American English - truck
+British English - lorry
+Once again, your dictionary should list whether the term is used in British English or American
+English.
+e. Prepositions
+There are also a few differences in preposition use including the following:
+8 By Min Chen
+
+## 第 9 页
+Chapter 2 The Origin of English Words
+ American English - on the weekend
+British English - at the weekend
+ American English - on a team
+British English - in a team
+ American English - please write me soon
+British English - please write to me soon
+f. Past Simple/Past Participles
+The following verbs have two acceptable forms of the past simple/past participle in both
+American and British English, however, the irregular form is generally more common in British
+English (the first form of the two) and the regular form is more common to American English.
+ Burn: Burnt OR burned
+ Dream: dreamt OR dreamed
+ Lean: leant OR leaned
+ Learn: learnt OR learned
+ Smell: smelt OR smelled
+ Spell: spelt OR spelled
+ Spill: spilt OR spilled
+ Spoil: spoilt OR spoiled
+f. Spelling
+Here are some general differences between British and American spellings:
+Words ending in -or (American) -our (British) color, colour, humor, humour, flavor, flavour etc.
+Words ending in -ize (American) -ise (British) recognize, recognise, patronize, patronise etc.
+The best way to make sure that you are being consistent in your spelling is to use the spell
+check on your word processor (if you are using the computer of course) and choose which variety
+of English you would like. As you can see, there are really very few differences between standard
+British English and standard American English. However, the largest difference is probably that of
+the choice of vocabulary and pronunciation.
+9 By Min Chen

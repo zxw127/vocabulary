@@ -1,0 +1,164 @@
+# Chapter 1 Introduction to English Lexicology(1).pdf
+共 5 页
+
+
+## 第 1 页
+Chapter 1 Introduction to English Lexicology
+I. Introduction
+1. What is language?
+Language is a system of arbitrary vocal symbols used for human communication. It is a
+specific social action and a carrier of information.
+2. What is linguistics?
+ Generally speaking, linguistics can be defined as the scientific study of language.
+Major branches of linguistics
+phonetics (the study of the characteristics of speech sounds), phonology (the study of the sound
+patterns of languages), morphology (the study of the form of words), lexicology (the study of the
+vocabulary of a given language), syntax (the study of the rules governing the combination of
+words into sentences), semantics (the study of the meaning of language), pragmatics (the study of
+meaning in context of use) ……
+3. What is lexicology?
+ To put it simple, lexicology is a science of words.
+ To be more exact, lexicology is a branch of linguistics concerned with the study of the
+vocabulary of a given language. It deals with words, their origin, development, history, structure,
+formation, meaning and usage (or application).
+II. Lexicology and Words
+1. The connection of lexicology with other branches of Linguistics
+Morphology, Semantics, Etymology and Lexicography
+2. What is a word?
+It can be defined as (Jackson and Amvela 2000):
+ A word is an uninterruptible unit of structure consisting of one or more morpheme.
+Uninterruptible means that words are 'Internally stable', namely, a word, as a unit of structure
+can not be interrupted by other modifier elements.
+Or:
+A word is a minimal free form of a language that has a given sound, meaning and
+syntactic function.
+1
+
+## 第 2 页
+And what does vocabulary refer to?
+ The term “vocabulary” is used in different senses.
+ the total number of the words in a language;
+ all the words used in a particular historical period;
+ all the words of a given dialect, a given book, a given discipline and the words
+possessed by an individual person.
+3. Major Features of Words
+3.1 Arbitrariness
+By arbitrariness, we mean there is no logical connection between sounds and meanings; the
+symbolic connection is almost always arbitrary.
+However, there seems to be some association between sounds and meaning, since language is
+not entirely arbitrary though most words can be said to be non-motivated.
+For instance, some words which imitate natural sounds and show a close relation of sound
+and meaning are phonetically motivated（语音理据）known as onomatopoeia（拟声）；some words
+are semantically motivated（语义理据）because of the mental associations based on the conceptual
+meaning of the words such as metaphor.
+3.2 Duality（两重性）
+By duality is meant “the property of having two levels of structures, such that units of the
+primary level are composed of element of the secondary level and each of the two levels has its
+own principles of organization” (Lyons, 1982:20).
+A word consists of two sets, or two levels of structures, the basic level and the higher level. At
+the basic level is a structure of sounds — phonemes, which are basically meaningless. But the
+sounds can be grouped and regrouped into a large number of units of meaning — morphemes,
+which found at a higher level.
+3.3 Displacement（不受时空限制的特性）
+Displacement means that words enable their users to symbolize objects, events and concepts
+which are not present (in time and space) at the moment of communication.
+In this sense, animal communication systems are under immediate stimulus control, while
+human languages are stimulus free.
+3.4 Uninterruptibility:
+Uninterruptibility suggests the criteria of 'positional mobility' and 'internal stability':
+2
+
+## 第 3 页
+1) Words are said to be 'positionally mobile' in the sense that they are not fixed to specific places
+in a sentence.
+2) Words are said to be 'internally stable', namely, a word, as a unit of structure can not be
+interrupted by other modifier elements. Besides, 'internal stability' also refers to the fact that
+within words the order of morphemes remains consistent.
+Sum-up:
+1) What’s the relationship between sound and meaning?
+ There is no logical connection between sounds and meanings; the symbolic
+connection is almost always arbitrary.
+2) And what should be the relationship between sound and form?
+ Written form = orthographical record of the oral form
+ Naturally, the sound should be consistent with the form, i.e. the written form should
+agree with the oral form.
+It is only true in Old English. With the development of the language, more and more
+differences arose between sound and form. Why?
+ There are more phonemes than letters in English.
+The English alphabet was adopted from the Romans, and it does not have a separate
+letter to represent each sound in the language so that some letters must work together in
+combination. 26 letters →48 phonemes
+ Some of the differences were created by the early scribes（抄写员）.
+– Before printing: everything was handwritten, so mistakes were made, for
+instance, i, u, v, m, w and n look alike, word spelling is free.
+– To solve the problem, they change u into o: e.g., Sum, cum, wuman, wunder,
+munk  some, come, woman, wonder, monk
+– They decided that no word should end with u or v, so they add e at the end, so we
+get live, have, due, true.
+ Finally comes the borrowing.
+– English borrowed words as well as the spelling.
+– The early ones were assimilated, but the later ones do not conform to the rules of
+English pronunciation and spelling.
+– Stimulus (L) kimono (J) blitzkrieg (G)
+4. Classification of Words: （课本P 5）
+• English words may fall into the basic word stock and non-basic vocabulary by use
+3
+
+## 第 4 页
+frequency;
+• Into content words and functional words by notion（概念）;
+• Into native words and borrowed words by origin.
+1) Basic word stock and non-basic vocabulary（基本词汇与非基本词汇）
+The basic word stock is the foundation of the English vocabulary, forms the core of the
+language, and thus is used with a very high frequency. Its characteristics:
+• All national character（全民性 / 全民通用性）：Words of the basic word stock denote the
+most common things and phenomena of the world around us, which are indispensable to all the
+people who speak the language
+• Stability（稳定性）：As they denote the commonest things necessary to life, they are likely to
+remain unchanged.
+• Productivity（能产性）：Words of the basic word stock are most root words or monosyllabic
+words. They can be used alone, and can also form new words with other roots and affixes.
+• Polysemy（多义性）：Words belonging to the basic word stock often possess more than one
+meaning because most of them have undergone semantic changes in the course of use and
+become polysemous.
+Non-basic vocabulary includes the words not belonging to the common core of the
+language.
+ Words technical in sense (terminology)
+ Slang: belongs to the sub-standard language
+ Archaisms（古旧词语）are words or forms that were once in common use but are now
+restricted only to specialized or limited use.
+ Neologisms（新词语）are newly-created words or expressions or words that have taken
+on new meanings.
+2) Content words and functional words
+Words can be divided into the following classes:
+ Functional words: do not have notions of their own (preposition, pronoun, determiner,
+conjunction, auxiliary verb);
+ Content words: denote clear notions (noun, adjective, verb, adverb, numeral);
+ A small number of words of unique function: the particle not and the infinitive marker to.
+Functional words: restricted, largely unchanging (numerically stable), serving the grammatical
+construction of sentences.
+Content words: open, large, constantly changing (numerically unstable, with new words constantly
+added), carrying the main meaning of sentences.
+4
+
+## 第 5 页
+3. Native Words and Borrowed Words
+ Native words are words brought to Britain in the 5th century by the Germanic tribes.
+These Anglo-Saxon words:
+a) Small in number — 50,000 to 60, 000
+b) But form the mainstream of the basic word stock
+c) In structure: Mostly monosyllabic
+Thus, they have the characteristics of the basic word stock mentioned before.
+ Words taken over from foreign languages are called borrowed words (loan words or
+borrowings). English is a heavy borrower (with 80 percent borrowed from other languages)
+They can be divided into four kinds: （教材 p 13 – p 14）
+ Denizen（s 同化词）：words borrowed early from Latin, Greek, French and Scandinavian.
+They are now well assimilated into the English language.
+ Aliens（异化词）：words which have retained their original pronunciation and spelling.
+These words are immediately recognizable as foreign in origin.
+ Translation loan（s 译借词）：words and expressions formed from the existing material in
+the English language, but modeled on the patterns taken from another language.
+ Semantic loan（s 借义词）：Words of this category are not borrowed with reference to the
+form, but to the meaning. Semantic borrowings refer to words which have acquired a new
+meaning under the influence of other languages.
+5
