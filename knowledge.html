@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>英语词汇学 考点速记</title>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\(', '\)']],
+    displayMath: [['$$', '$$'], ['\[', '\]']]
+  }
+};
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"></script>
+<style>
+/* === ExamPass Shared Styles === */
+/* Paper-like warm background, clean typography, responsive */
+
+:root {
+  --paper: #fdf6e3;
+  --paper-dark: #f5ecd7;
+  --ink: #2c2c2c;
+  --ink-light: #555;
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+  --divider: #d6c8a8;
+  --card-bg: #fef9ef;
+  --card-border: #e8dcc8;
+  --correct: #22c55e;
+  --correct-bg: #f0fdf4;
+  --wrong: #ef4444;
+  --wrong-bg: #fef2f2;
+  --tag-bg: #fef3c7;
+  --tag-text: #92400e;
+  --radius: 6px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: "Microsoft YaHei", "Noto Sans SC", "SimSun", sans-serif;
+  font-size: 12pt; line-height: 1.75; color: var(--ink);
+  max-width: 860px; margin: auto; padding: 24px 20px 60px;
+  background: var(--paper);
+}
+
+@media print {
+  body { font-size: 10.5pt; background: #fff; }
+  .no-print { display: none !important; }
+  h1, h2, h3 { page-break-after: avoid; }
+}
+
+/* ── Header ── */
+#exampass-header {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 6px 0; margin-bottom: 0;
+}
+.header-brand { font-size: 1.2em; font-weight: 700; color: #1a1a2e; letter-spacing: 0.3px; }
+.header-url  { font-size: 0.78em; color: #999; }
+.header-divider { border: none; border-top: 2px solid var(--divider); margin: 4px 0 20px 0; }
+
+/* ── Typography ── */
+h1 { font-size: 1.55em; text-align: center; border-bottom: 2px solid var(--divider); padding-bottom: 8px; margin-top: 0; }
+h2 { font-size: 1.25em; border-bottom: 1px solid var(--divider); padding-bottom: 4px; margin-top: 28px; }
+h3 { font-size: 1.08em; margin-top: 20px; color: var(--ink); }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── Tables ── */
+table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 0.95em; }
+td, th { border: 1px solid var(--card-border); padding: 5px 9px; text-align: left; }
+th { background: var(--paper-dark); font-weight: 700; }
+
+/* ── Knowledge point vs explanation ── */
+.kp { font-weight: 700; color: var(--ink); }           /* key point: bold dark */
+.exp { font-weight: 400; color: var(--ink-light); }    /* explanation: lighter */
+.exp em, .exp strong { color: var(--ink); }             /* emphasis inside explanation */
+
+/* ── Block elements ── */
+blockquote {
+  border-left: 3px solid #c0392b; background: #fef9ef;
+  padding: 6px 14px; margin: 10px 0; font-size: 0.95em;
+}
+code { background: #f0ede0; padding: 2px 5px; border-radius: 3px; font-size: 0.92em; }
+pre { background: #f0ede0; padding: 10px; border-radius: var(--radius); overflow-x: auto; }
+
+/* ── TOC ── */
+div.toc {
+  background: var(--card-bg); padding: 14px 18px;
+  border: 1px solid var(--card-border); border-radius: var(--radius); margin-bottom: 22px;
+}
+div.toc ul { padding-left: 18px; }
+div.toc li { margin: 3px 0; font-size: 0.95em; }
+
+/* ── Priority tags ── */
+.tag-must   { background: #fee2e2; color: #991b1b; padding: 1px 6px; border-radius: 3px; font-size: 0.82em; font-weight: 600; }
+.tag-key    { background: #fef3c7; color: #92400e; padding: 1px 6px; border-radius: 3px; font-size: 0.82em; font-weight: 600; }
+.tag-freq   { background: #dbeafe; color: #1e40af; padding: 1px 6px; border-radius: 3px; font-size: 0.82em; font-weight: 600; }
+.tag-info   { background: #f0fdf4; color: #166534; padding: 1px 6px; border-radius: 3px; font-size: 0.82em; font-weight: 600; }
+
+
+</style>
+</head>
+<body>
+
+<header id="exampass-header">
+  <div class="header-left"><span class="header-brand">ExamPass Assistant</span></div>
+  <div class="header-right"><span class="header-url">github.com/WUBING2023/ExamPass-Assistant</span></div>
+</header>
+<hr class="header-divider">
+
+<h1>英语词汇学 考点速记</h1>
+<div class="toc">
+<h2>目录</h2>
+<ul>
+<li><a href="#s13485909">Chapter 1 &#12288;导论：什么是词汇学</a></li>
+  <li><a href="#s57080864">语言与语言学 了解</a></li>
+  <li><a href="#s32594895">什么是词？ 重点</a></li>
+  <li><a href="#s64853107">词的四大特征 必考</a></li>
+  <li><a href="#s41771809">词的分类 必考</a></li>
+<li><a href="#s69261736">Chapter 2 &#12288;英语词汇的起源</a></li>
+  <li><a href="#s86737536">语言分类 重点</a></li>
+  <li><a href="#s41322086">英语词汇发展四阶段 必考</a></li>
+  <li><a href="#s83975548">现代英语的总体特征 重点</a></li>
+  <li><a href="#s35027058">美国英语 高频</a></li>
+<li><a href="#s67540355">Chapter 3 &#12288;英语的形态结构</a></li>
+  <li><a href="#s47750369">词素 (Morpheme) 必考</a></li>
+  <li><a href="#s61157975">词素的分类 必考</a></li>
+  <li><a href="#s45907031">词根、词缀、词干、词基 重点</a></li>
+  <li><a href="#s24424476">形素与词素变体 高频</a></li>
+  <li><a href="#s25250528">词位与词形 高频</a></li>
+<li><a href="#s23853228">Chapter 4 &#12288;英语构词法</a></li>
+  <li><a href="#s69542569">构词法总览 必考</a></li>
+  <li><a href="#s13646467">词缀法 (Affixation) 必考</a></li>
+  <li><a href="#s19243335">复合法 (Compounding) 必考</a></li>
+  <li><a href="#s43581818">转类法 (Conversion / Zero Derivation) 必考</a></li>
+  <li><a href="#s25307644">拼缀法 (Blending) 高频</a></li>
+  <li><a href="#s19704821">缩略法 (Clipping) 高频</a></li>
+  <li><a href="#s41207415">首字母缩略 (Acronymy) 高频</a></li>
+  <li><a href="#s24833633">逆构法 (Backformation) 重点</a></li>
+<li><a href="#s30148107">Chapter 5 &#12288;词义与语义成分分析</a></li>
+  <li><a href="#s61509752">词义的几个概念 必考</a></li>
+  <li><a href="#s83439336">理据 (Motivation) 重点</a></li>
+  <li><a href="#s32861489">意义的七种类型 (Leech) 必考</a></li>
+  <li><a href="#s66159356">语义场与语义成分分析 重点</a></li>
+<li><a href="#s18137575">Chapter 6 &#12288;语义关系</a></li>
+  <li><a href="#s86367620">同义关系 (Synonymy) 必考</a></li>
+  <li><a href="#s29030971">反义关系 (Antonymy) 必考</a></li>
+  <li><a href="#s56824394">多义关系 (Polysemy) 必考</a></li>
+  <li><a href="#s43184482">同音/同形异义 (Homonymy) 重点</a></li>
+  <li><a href="#s55057446">上下义关系 (Hyponymy) 重点</a></li>
+<li><a href="#s23931374">Chapter 7 &#12288;词义的变化</a></li>
+  <li><a href="#s25928401">词义变化类型 必考</a></li>
+  <li><a href="#s45223262">委婉语 (Euphemism) 高频</a></li>
+  <li><a href="#s61673649">词义转移 (Transference of Meaning) 重点</a></li>
+  <li><a href="#s47406999">词义变化的过程 重点</a></li>
+<li><a href="#s23707985">Chapter 8 &#12288;意义与语境</a></li>
+  <li><a href="#s76082572">语境的定义与类型 重点</a></li>
+  <li><a href="#s83902772">语境的三大功能 必考</a></li>
+<li><a href="#s64796944">Chapter 9 &#12288;习语、多词动词与谚语</a></li>
+  <li><a href="#s54814635">习语的三大特征 必考</a></li>
+  <li><a href="#s74784456">习语的语法分类 重点</a></li>
+  <li><a href="#s78363247">习语的使用 高频</a></li>
+  <li><a href="#s40388520">习语来源 高频</a></li>
+</ul>
+</div>
+
+<h2 id="s13485909">Chapter 1 &#12288;导论：什么是词汇学</h2>
+
+<h3 id="s57080864">语言与语言学 <span class="tag-info">了解</span></h3>
+<p><span class="kp">语言：一套任意的声音符号系统，用于人类交际。</span></p>
+<p><span class="kp">语言学 = 对语言的科学研究。</span>主要分支：语音学 (phonetics)、音系学 (phonology)、形态学 (morphology)、<strong>词汇学 (lexicology)</strong>、句法学 (syntax)、语义学 (semantics)、语用学 (pragmatics)。</p>
+
+<h3 id="s32594895">什么是词？ <span class="tag-key">重点</span></h3>
+<p><span class="kp">词是一个不可中断的结构单位，由一个或多个词素组成，具有给定的语音、意义和句法功能。</span></p>
+<p><span class="kp">词汇 (vocabulary)</span> 可指：一门语言的全部词、特定历史时期的词、特定方言/学科/个人的词。</p>
+
+<h3 id="s64853107">词的四大特征 <span class="tag-must">必考</span></h3>
+<p><span class="kp">1. 任意性 (Arbitrariness)</span>：音与义之间没有逻辑联系。例外：拟声词 (onomatopoeia) 有语音理据；隐喻有语义理据。</p>
+<p><span class="kp">2. 两重性 (Duality)</span>：词有双层结构 -- 底层是音位 (phonemes，无语义)，高层是词素 (morphemes，有语义)。</p>
+<p><span class="kp">3. 不受时空限制 (Displacement)</span>：语言能指代不在当下时空的事物。动物交际受即时刺激控制，人类语言不受刺激约束。</p>
+<p><span class="kp">4. 不可中断性 (Uninterruptibility)</span>：位置可移动 (positionally mobile) + 内部稳定 (internally stable)。</p>
+<blockquote>易错：任意性是「音与义」的关系无逻辑联系。但音与形 (sound and form) 不一致是历史原因造成的（字母不够用、抄写员误写、借词）。</blockquote>
+
+<h3 id="s41771809">词的分类 <span class="tag-must">必考</span></h3>
+<p><span class="kp">按使用频率：基本词汇 (basic word stock) vs 非基本词汇 (non-basic)</span></p>
+<p><span class="kp">基本词汇四大特征：全民性 (All National Character)、稳定性 (Stability)、能产性 (Productivity)、多义性 (Polysemy)</span></p>
+<p><span class="kp">非基本词汇包括：术语 (terminology)、俚语 (slang)、古旧词 (archaisms)、新词 (neologisms)</span></p>
+<p><span class="kp">按概念：实词 (content words: n, adj, v, adv, numeral) vs 虚词 (functional words: prep, pron, det, conj, aux)</span></p>
+<p>实词：开放类、数量大、不断变化、承载句子主要意义。虚词：封闭类、数量稳定、服务于语法结构。</p>
+<p><span class="kp">按来源：本族语词 (native words) vs 借词 (borrowed words)</span></p>
+<p>本族语词：Anglo-Saxon 词，约 5-6 万，构成基本词汇主流，多为单音节。</p>
+<p><span class="kp">借词四类：同化词 (Denizens)、异化词 (Aliens)、译借词 (Translation loans)、借义词 (Semantic loans)</span></p>
+<blockquote>易错：英语 80% 词汇来自其他语言，是「heavy borrower」。同化词已被英语同化；异化词保留原拼读；译借词用英语材料仿外语模式造词；借义词借用外来语义而非形式。</blockquote>
+
+<h2 id="s69261736">Chapter 2 &#12288;英语词汇的起源</h2>
+
+<h3 id="s86737536">语言分类 <span class="tag-key">重点</span></h3>
+<p><span class="kp">类型分类 (Typological)：孤立语 (isolating)、粘着语 (agglutinating)、屈折语 (inflecting)、多式综合语 (incorporating)。</span>后两种统称综合语 (synthetic)。汉语接近孤立语，英语偏孤立语但比汉语偏综合。</p>
+<p><span class="kp">句法分类：综合语 (synthetic, 靠屈折变化表关系) vs 分析语 (analytic, 靠词序表关系)。</span>英语从综合语演变为分析语。</p>
+<p><span class="kp">谱系分类 (Genetic)：英语属印欧语系 (Indo-European Family) 日耳曼语族 (Germanic) 西日耳曼语支。</span></p>
+
+<h3 id="s41322086">英语词汇发展四阶段 <span class="tag-must">必考</span></h3>
+<p><span class="kp">1. 古英语 (Old English, 450-1066)</span>：Anglo-Saxon 语，高度屈折 (如现代德语)。约 24,000 词汇。特征：频繁使用 kennings (比喻复合词)、缺乏借词、名词/代词/形容词/动词有复杂词尾变化。</p>
+<p>两大事件：基督教传入 (6 世纪，带来拉丁宗教词)；北欧人入侵 (9 世纪，带来斯堪的纳维亚词)。</p>
+<p><span class="kp">2. 中古英语 (Middle English, 1066-1500)</span>：诺曼征服 (1066) 导致大量法语词涌入。屈折系统大幅削弱 (full endings &#8594; leveled endings)，从综合语向分析语转变。特征：法语词覆盖文化社会各领域、语法变化剧烈。</p>
+<p><span class="kp">3. 早期现代英语 (Early Modern English, 1500-1800)</span>：文艺复兴带来大量拉丁/希腊借词。印刷术标准化拼写发音。莎士比亚和钦定版圣经影响最大。1755 年 Samuel Johnson 词典出版。</p>
+<p><span class="kp">4. 现代英语 (Modern English, 1800-今)</span>：三大特征 -- 科技词汇空前增长、美国英语成为主导变体、「新英语」变体的出现。屈折词尾基本消失 (lost endings)。</p>
+<blockquote>易错：古英语 = full endings，中古英语 = leveled endings，现代英语 = lost endings。这是必考的演变线索。</blockquote>
+
+<h3 id="s83975548">现代英语的总体特征 <span class="tag-key">重点</span></h3>
+<p><span class="kp">从综合语 &#8594; 分析语；接受性 (Receptivity)、适应性 (Adaptability)、多质性 (Heterogeneity)；屈折简化；词序相对固定。</span></p>
+
+<h3 id="s35027058">美国英语 <span class="tag-freq">高频</span></h3>
+<p>源于伊莉莎白时期英语。1607 Jamestown, 1620 Mayflower。1828 Noah Webster《美国英语词典》是美国英语形成的标志。特征：对古英语的保留 (archaic features)、创新 (innovation)、多民族语言吸收 (melting pot)、大量使用俚语。</p>
+
+<h2 id="s67540355">Chapter 3 &#12288;英语的形态结构</h2>
+
+<h3 id="s47750369">词素 (Morpheme) <span class="tag-must">必考</span></h3>
+<p><span class="kp">词素是语言中最小的有意义的单位，是最基本的语法成分。</span>词素<strong>不等于</strong>词（词可独立使用，词素不可）；词素<strong>不等于</strong>音节（音节只是语音单位，无关于意义）。</p>
+
+<h3 id="s61157975">词素的分类 <span class="tag-must">必考</span></h3>
+<p><span class="kp">自由词素 (Free morpheme)</span>：可单独成词，有完整词汇意义。如 read, book。</p>
+<p><span class="kp">粘着词素 (Bound morpheme)</span>：必须附着于其他词素。只有附加意义或语法意义。如 -er, -s, un-。</p>
+<p><span class="kp">派生词素 (Derivational morpheme)</span>：用于派生新词，可改变词义或词类或二者兼有。含前缀和后缀。</p>
+<p><span class="kp">屈折词素 (Inflectional morpheme)</span>：仅表语法关系，不改变词类也不产生新词。仅限于后缀。如 -s(复数), -ed(过去式), -ing(进行体), -er(比较级), -est(最高级)。</p>
+<blockquote>易错：派生词素可以改词类或词义，可以是前缀也可以是后缀；屈折词素不改词类不改词义，只能是后缀。英语只有 8 个屈折词缀。</blockquote>
+
+<h3 id="s45907031">词根、词缀、词干、词基 <span class="tag-key">重点</span></h3>
+<p><span class="kp">词根 (Root)</span>：去掉所有派生和屈折词缀后剩下的部分，承载词的核心词汇意义。可以是自由或粘着的。如 anthro-(人), chron-(时), hydr-(水)。</p>
+<p><span class="kp">词缀 (Affix)</span>：只能附着于其他词素。分前缀 (prefix)、后缀 (suffix)、中缀 (infix, 英语极少)。</p>
+<p><span class="kp">词干 (Stem)</span>：去掉所有<strong>屈折</strong>词缀后剩下的部分（仅关涉屈折形态）。</p>
+<p><span class="kp">词基 (Base)</span>：可添加任何词缀（派生或屈折）的形式。</p>
+
+<h3 id="s24424476">形素与词素变体 <span class="tag-freq">高频</span></h3>
+<p><span class="kp">形素 (Morph)</span>：词素在言语中的具体实现（物理形式）。</p>
+<p><span class="kp">词素变体 (Allomorph)</span>：同一词素在不同语境中的不同形态/语音形式。如过去式词素的 [t], [d], [id]。</p>
+
+<h3 id="s25250528">词位与词形 <span class="tag-freq">高频</span></h3>
+<p><span class="kp">词位 (Lexeme)</span>：词汇意义的基本单位，抽象单位，有不同变体。如 SEE = {see, seeing, saw, seen}。</p>
+<p><span class="kp">词形 (Word Form)</span>：词位的具体实现，即词位的屈折形式。</p>
+
+<h2 id="s23853228">Chapter 4 &#12288;英语构词法</h2>
+
+<h3 id="s69542569">构词法总览 <span class="tag-must">必考</span></h3>
+<p>构词分两大类：<span class="kp">屈折 (Inflection)</span> -- 语法需要，不改词类不造新词；<span class="kp">派生 (Derivation)</span> -- 造新词，含三大方式：词缀法 (Affixation)、复合法 (Compounding)、转类法 (Conversion)。</p>
+<p>其他构词法：拼缀法 (Blending)、缩略法 (Shortening: Clipping + Acronymy)、逆构法 (Backformation)、专有名词普通化 (Commonization)。</p>
+
+<h3 id="s13646467">词缀法 (Affixation) <span class="tag-must">必考</span></h3>
+<p><span class="kp">前缀通常改变词义不改变词类；后缀通常改变词类。</span></p>
+<p>常见前缀类型：否定 (negative: un-, in-, dis-, non-, a-)、反向 (reversative: un-, de-, dis-)、贬义 (pejorative: mal-, mis-, pseudo-)、态度 (attitude: anti-, pro-, co-, counter-)、程度 (degree: super-, over-, ultra-, hyper-, mini-, macro-, arch-, out-, extra-, micro-)、时间 (time: pre-, post-, fore-, ex-)、方位 (locative: inter-, intra-, sub-, super-, trans-)、数量 (number: mono-/uni-, bi-/di-, tri-, multi-/poly-, semi-/demi-/hemi-)。</p>
+<p><span class="kp">后缀按功能分：名词化 (Nominalizers: -age, -ment, -al, -ation, -ce, -ance, -ant, -ee, -ure, -er, -y, -ist, -ity, -dom, -ness, -th)、动词化 (Verbalizers: -en, -ize, -ify, be-, en-)、形容词化 (Adjectivizers: -al, -ed, -less, -an, -en, -like, -ful, -ly, -ous, -ish, -able, -ive, -ent, -some, -ory)、副词化 (Adverbializers: -ly, a-, -ward, -wise)。</span></p>
+<p>保持词类的后缀：名词 &#8594; 名词 (-ship, -hood, -dom, -ful, -ism, -age, -eer, -er, -ess, -let)；形容词 &#8594; 形容词 (-ish)。</p>
+
+<h3 id="s19243335">复合法 (Compounding) <span class="tag-must">必考</span></h3>
+<p><span class="kp">定义：两个或以上的词基组合成一个新词。</span></p>
+<p><span class="kp">书写特征：solid (连写, bedtime)、hyphenated (带连字符, above-mentioned)、open (分开写, reading material)。</span></p>
+<p><span class="kp">语音特征：主重音在第一成分，次重音在第二成分。</span></p>
+<p><span class="kp">语义特征：整体意义不能简单从各部分推断 (如 darkroom &#8800; dark room)。</span></p>
+<p><span class="kp">句法特征：复合词在句中占单个语法槽位 (one-wordness)。</span></p>
+<p>复合名词类型：主谓 (housekeeping)、动宾 (pickpocket)、动词+状语 (diving board / waiting room, sewing machine)、主宾 (steamboat)、同位 (a peasant girl)。</p>
+<p>复合形容词来源：状语短语 (off-the-cuff)、短语动词 (back-up, see-through)、不定式短语 (take-home, cross-border)、压缩定语从句 (easy-to-paint, can't-be-put-down)。</p>
+<p><span class="kp">复合动词：逆构法造 (mass-produce &#8592; mass production, baby-sit &#8592; baby-sitting) 或类推造 (chain-drink &#8592; chain-smoke)。</span></p>
+
+<h3 id="s43581818">转类法 (Conversion / Zero Derivation) <span class="tag-must">必考</span></h3>
+<p><span class="kp">定义：不改变词形（拼写和发音），将一个词从一种词类转为另一种词类。</span></p>
+<p>主要种类：N &#8594; V (to bottle, to book, to cash)；V &#8594; N (a doubt, a guess, a call)；Adj &#8594; V (to better, to dirty, to dry)；Adj &#8594; N (the poor/rich/wounded = 部分转化 partial；a native/natives = 完全转化 full conversion)。</p>
+<blockquote>易错：完全转化的形容词名词化可以加 -s 表复数、加 -'s 表所有格；部分转化 (the+adj) 不能。</blockquote>
+
+<h3 id="s25307644">拼缀法 (Blending) <span class="tag-freq">高频</span></h3>
+<p>Word + splinter: lunarnaut, workfare；Splinter + word: brunch；Splinter + splinter: comsat, motel；Overlap: autopia；Embedding: chortle。</p>
+
+<h3 id="s19704821">缩略法 (Clipping) <span class="tag-freq">高频</span></h3>
+<p>Front clipping: helicopter &#8594; copter, telephone &#8594; phone；Back clipping: automobile &#8594; auto, dormitory &#8594; dorm；Front &amp; back: influenza &#8594; flu, refrigerator &#8594; fridge；Mid clipping: pacifist &#8592; pacificist；Phrase clipping: zoo, pop。</p>
+
+<h3 id="s41207415">首字母缩略 (Acronymy) <span class="tag-freq">高频</span></h3>
+<p><span class="kp">Initialism (首字母缩略词)</span>：逐个字母读，如 GMAT, CORE, ID, VIP, TOEFL, WHO。</p>
+<p><span class="kp">Acronym (首字母拼音词)</span>：整体拼读，如 IELTS, SALT, radar, AIDS, BASIC, Laser。</p>
+
+<h3 id="s24833633">逆构法 (Backformation) <span class="tag-key">重点</span></h3>
+<p><span class="kp">错误地去掉假设的词缀而造出新词。</span>如 swindle &#8592; swindler, edit &#8592; editor, air-condition &#8592; air-conditioner, lase &#8592; laser, escalate &#8592; escalator。</p>
+
+<h2 id="s30148107">Chapter 5 &#12288;词义与语义成分分析</h2>
+
+<h3 id="s61509752">词义的几个概念 <span class="tag-must">必考</span></h3>
+<p><span class="kp">外延/指称义 (Denotation)</span>：词项与语言系统外部的人/事/物之间的关系。</p>
+<p><span class="kp">指称 (Reference)</span>：具体语境中语言表达与外部事物的关系。</p>
+<p><span class="kp">涵义 (Sense)</span>：语言内部词项之间的关系系统。每个有意义的词都有 sense，但不是每个词都有 denotation。</p>
+<blockquote>易错：不同涵义的表达可以有相同外延（如 Morning Star = Evening Star, 都指金星）。</blockquote>
+
+<h3 id="s83439336">理据 (Motivation) <span class="tag-key">重点</span></h3>
+<p><span class="kp">拟声理据 (Onomatopoeic)</span>：发音暗示意义，如 buzz, bang。</p>
+<p><span class="kp">形态理据 (Morphological)</span>：从词缀/词根推断意义，如 reader = read + er。</p>
+<p><span class="kp">语义理据 (Semantic)</span>：概念意义的心理联想（字面义 &#8594; 比喻义）。</p>
+<p><span class="kp">词源理据 (Etymological)</span>：词的起源说明其意义（专有名词普通化）。</p>
+<p><span class="kp">类推理据 (Analogical)</span>：仿照已有词造新词。如 telethon, talkathon &#8592; marathon；black list &#8594; white list, gray list；landscape &#8594; moonscape, marscape。</p>
+
+<h3 id="s32861489">意义的七种类型 (Leech) <span class="tag-must">必考</span></h3>
+<p><span class="kp">1. 概念意义 (Conceptual Meaning)</span>：词典定义，词的<strong>核心意义</strong>，也称外延意义/认知意义。</p>
+<p><span class="kp">2. 内涵意义 (Connotative Meaning)</span>：概念意义之外的附加意义、社会文化价值。非词义本质部分。</p>
+<p><span class="kp">3. 社会/文体意义 (Social/Stylistic Meaning)</span>：语言传达的关于使用社会场景的意义。从 casual/colloquial 到 formal/polite 连续体。</p>
+<p><span class="kp">4. 情感意义 (Affective Meaning)</span>：说话人的情感态度。褒义词 = purr words；贬义词 = snarl words。</p>
+<p><span class="kp">5. 反映意义 (Reflected Meaning)</span>：一词的多义之间相互联想引发的意义。</p>
+<p><span class="kp">6. 搭配意义 (Collocative Meaning)</span>：由经常共现的词所赋予的联想意义。</p>
+<p><span class="kp">7. 主题意义 (Thematic Meaning)</span>：通过信息组织方式（语序、强调、焦点）传递的意义。信息结构 = 主位 (Theme) + 述位 (Rheme)。</p>
+<blockquote>易错：概念意义是核心/第一位的；联想意义 (2-6) 是附带的/第二位的。主题意义是另一种维度。</blockquote>
+
+<h3 id="s66159356">语义场与语义成分分析 <span class="tag-key">重点</span></h3>
+<p><span class="kp">语义场 (Semantic Field)</span>：J. Trier 提出。词汇不是独立项目的罗列，而是组织成相互关联、相互界定的领域/场。</p>
+<p><span class="kp">语义成分分析法 (Componential Analysis, CA)</span>：将词义分解为一组最小的语义特征/语义成分。如 bull = [-HUMAN, +MALE, +ADULT, +BOVINE]；cow = [-HUMAN, -MALE, +ADULT, +BOVINE]。</p>
+
+<h2 id="s18137575">Chapter 6 &#12288;语义关系</h2>
+
+<h3 id="s86367620">同义关系 (Synonymy) <span class="tag-must">必考</span></h3>
+<p><span class="kp">同义词：音形不同但意义相同或相近的词。</span>英语同义词丰富主要因为大量借词。</p>
+<p>三种来源风格差异：本族语词 &#8594; 最普通/口语；法语借词 &#8594; 中间层；拉丁/希腊借词 &#8594; 最正式/学术。</p>
+<p><span class="kp">严格同义词 (absolute/strict synonym)</span>：所有方面完全相同，所有语境可互换。极少，几乎不存在（不经济）。</p>
+<p><span class="kp">相对同义词 (loose/relative synonym)</span>：意义有显著重叠，但部分语境不可互换。如 discover vs find (Maria Curie discovered/*found radium in 1898)。</p>
+<p>区别同义词的四个维度：不同英语方言、不同文体意义、不同内涵意义、不同搭配意义。</p>
+
+<h3 id="s29030971">反义关系 (Antonymy) <span class="tag-must">必考</span></h3>
+<p><span class="kp">1. 等级反义词 (Gradable antonyms)</span>：更多/更少关系，连续体的两端，可比较。如 hot-cold, big-small。</p>
+<p><span class="kp">2. 互补反义词 (Contradictory/Complementary antonyms)</span>：非此即彼关系，肯定一方即否定另一方，不可分级。如 alive-dead, male-female。</p>
+<p><span class="kp">3. 关系反义词 (Converse/Relational antonyms)</span>：双向对立，一方预设另一方。如 buy-sell, husband-wife, above-below。</p>
+<blockquote>易错：等级反义词允许比较级 (hotter/colder)；互补反义词不允许比较级 (*more dead/*more alive)。考试常考分类题。</blockquote>
+
+<h3 id="s56824394">多义关系 (Polysemy) <span class="tag-must">必考</span></h3>
+<p><span class="kp">一词多义体现语言的经济性和效率。</span></p>
+<p>两个意义发展过程：<span class="kp">辐射式 (Radiation)</span> -- 所有次要意义直接从中心意义辐射出去（如 hand 的各义项）；<span class="kp">连锁式 (Concatenation)</span> -- 意义逐步转移，最终义与原始义失去联系（如 candidate: 穿白衣的人 &#8594; 求职者）。</p>
+
+<h3 id="s43184482">同音/同形异义 (Homonymy) <span class="tag-key">重点</span></h3>
+<p><span class="kp">完全同音同形异义词 (Perfect homonyms)</span>：音同形同义不同，如 lie(躺) vs lie(说谎)。</p>
+<p><span class="kp">同形异义词 (Homographs)</span>：形同音不同，如 tear(眼泪) vs tear(撕)。</p>
+<p><span class="kp">同音异义词 (Homophones)</span>：音同形不同，如 coarse vs course。</p>
+<p><span class="kp">区别多义词与同音异义词</span>：1) 词源 -- 多义词同源，同音异义词不同源；2) 语义关联 -- 多义词各义项有关联，同音异义词无关联。</p>
+
+<h3 id="s55057446">上下义关系 (Hyponymy) <span class="tag-key">重点</span></h3>
+<p><span class="kp">上下义关系是单向包蕴关系 (unilateral implication)。</span>如上义词 (superordinate): animal；下义词 (hyponym): dog, cat, bird。</p>
+<p><span class="kp">分类关系 (Taxonymy)</span>：「X is a kind of Y」，需要典型特征。并非所有下义词都是好的分类词。</p>
+<p><span class="kp">部整关系 (Meronymy)</span>：部分-整体关系。如 arm: body, wheel: car。</p>
+
+<h2 id="s23931374">Chapter 7 &#12288;词义的变化</h2>
+
+<h3 id="s25928401">词义变化类型 <span class="tag-must">必考</span></h3>
+<p><span class="kp">1. 词义扩大 (Extension / Generalization / Broadening)</span></p>
+<p>salary: 罗马士兵买盐的钱 &#8594; 固定工资。holiday: 宗教圣日 &#8594; 任何假期。allergic: 药物过敏 &#8594; 反感。alibi: 法律术语「不在场证明」&#8594; 借口。</p>
+<p><span class="kp">2. 词义缩小 (Narrowing / Specialization)</span></p>
+<p>meat: 食物 &#8594; 肉；wife: 妇女 &#8594; 妻子；starve: 死 &#8594; 饿死；accident: 事件 &#8594; 事故；stink: 任何气味 &#8594; 臭味。</p>
+<p>短语缩略导致的缩小：a general (将官) &#8592; a general officer；glass (玻璃杯/镜子) &#8592; 材料名词。</p>
+<p><span class="kp">3. 词义升格 (Elevation / Amelioration)</span>：snarl word &#8594; purr word</p>
+<p>nice: 无知/愚蠢 &#8594; 美好的；fond: 愚蠢 &#8594; 喜爱的；marshal: 马夫 &#8594; 元帅；knight: 仆人/士兵 &#8594; 爵士；awesome: 可怕的 &#8594; 极好的。</p>
+<p><span class="kp">4. 词义降格 (Degradation / Pejoration)</span>：purr word &#8594; snarl word</p>
+<p>silly: 幸福的 &#8594; 天真的 &#8594; 愚蠢的；sad: 满足 &#8594; 严肃 &#8594; 悲伤。</p>
+<blockquote>易错：升格和降格是情感/评价义的变化方向，与扩大/缩小（指称范围变化）是不同维度。考试常混合出题要求分类。</blockquote>
+
+<h3 id="s45223262">委婉语 (Euphemism) <span class="tag-freq">高频</span></h3>
+<p>用褒义或中性表达替代贬义或令人不悦的表达。如 garbage collector &#8594; sanitation engineer；old person &#8594; senior citizen。极端委婉 = 迂回说法 (Circumlocution)。</p>
+
+<h3 id="s61673649">词义转移 (Transference of Meaning) <span class="tag-key">重点</span></h3>
+<p><span class="kp">隐喻 (Metaphor)</span>：基于<strong>相似性 (resemblance)</strong>的转移。如 the foot of the mountain。</p>
+<p><span class="kp">换喻 (Metonymy)</span>：基于<strong>邻近性 (contiguity)</strong>的转移。如 The ham sandwich is a lousy tipper（用点的食物指代人）。</p>
+<p><span class="kp">移就/移位修饰 (Transferred Epithet)</span>：将修饰语从有生命的转移到无生命的。如 a sleepless pillow, cheerful money。</p>
+<p><span class="kp">通感 (Synaesthesia)</span>：用描述一种感官的词描述另一种感官。如 sharp pepper (味觉) &#8594; sharp smell (嗅觉) &#8594; sharp words (听觉) &#8594; sharp eyes (视觉)。</p>
+
+<h3 id="s47406999">词义变化的过程 <span class="tag-key">重点</span></h3>
+<p><span class="kp">辐射式 (Radiation)</span>：中心意义向多个方向辐射（如 hand）。</p>
+<p><span class="kp">连锁式 (Concatenation)</span>：意义逐步转移串联（如 candidate）。</p>
+<p><span class="kp">综合式 (Comprehensive)</span>：辐射 + 连锁同时发生（如 board）。</p>
+
+<h2 id="s23707985">Chapter 8 &#12288;意义与语境</h2>
+
+<h3 id="s76082572">语境的定义与类型 <span class="tag-key">重点</span></h3>
+<p><span class="kp">语言语境 (Linguistic Context)</span>：词出现的词/句/段/章。分词汇语境 (lexical context) 和语法语境 (grammatical context)。</p>
+<p><span class="kp">非语言语境 (Extra-linguistic Context)</span>：情景语境 (situational: 参与者 + 时间地点) 和文化语境 (cultural: 社会文化背景)。</p>
+
+<h3 id="s83902772">语境的三大功能 <span class="tag-must">必考</span></h3>
+<p><span class="kp">1. 消除歧义 (Eliminating Ambiguity)</span>：多义词和同音异义词在充分语境中意义明确。</p>
+<p><span class="kp">2. 指示所指对象 (Indication of Referents)</span>：指示词 (now/then, here/there, this/that) 依赖语境确定所指。</p>
+<p><span class="kp">3. 提供推断词义的线索 (Provision of Clues for Inference)</span>：作者提供提示帮助读者推断生词含义。</p>
+
+<h2 id="s64796944">Chapter 9 &#12288;习语、多词动词与谚语</h2>
+
+<h3 id="s54814635">习语的三大特征 <span class="tag-must">必考</span></h3>
+<p><span class="kp">1. 语义整体性 (Semantic Unity)</span>：习语意义 &#8800; 各成分意义的简单叠加。意义是不透明的 (opaque)。如 till the cows come home = 永远。</p>
+<p><span class="kp">2. 结构稳定性 (Structural Stability)</span>：结构通常不可改变。不能说 *bury the ax（只能说 bury the hatchet）；*tat for tit（只能说 tit for tat）。</p>
+<p><span class="kp">3. 可分级习语性 (Gradable Idiomaticity)</span>：习语性是连续体。越习语化 &#8594; 结构越固定。纯习语 (rain cats and dogs) &#8594; 半习语 (as cool as a cucumber) &#8594; 松散习语 (make friends with sb.)。</p>
+
+<h3 id="s74784456">习语的语法分类 <span class="tag-key">重点</span></h3>
+<p><span class="kp">名词性习语</span>：作主语/宾语。如 a white elephant (无用的累赘), brain trust (智囊团), apple of discord (祸根)。</p>
+<p><span class="kp">动词性习语</span>：(1) v+prep (look into)；(2) v+particle (turn on, put off)；(3) v+particle+prep (come up with)；(4) v+obj (bite the hand that feeds one)。</p>
+<p>区分：turn off 是可分离的 (turn it off)，look after 是不可分离的 (*look him after)。</p>
+<p><span class="kp">形容词性习语</span>：作补语/修饰语。如 cut and dried (已成定局), wide of the mark (不准确), up in the air (悬而未决)。</p>
+<p><span class="kp">副词性习语</span>：作状语。如 tooth and nail (全力以赴), heart and soul (全心全意), through thick and thin (同甘共苦)。</p>
+<p><span class="kp">句子习语</span>：完整句子形式，通常为谚语。如 All is not gold that glitters. Nothing ventured, nothing gained.</p>
+
+<h3 id="s78363247">习语的使用 <span class="tag-freq">高频</span></h3>
+<p>文体特征：口语 (colloquialism: big wheel)、俚语 (slang: hit the sack, in the soup)、文学表达 (literary: bear witness to)。</p>
+<p><span class="kp">修辞特征：语音手段 -- 头韵 (alliteration: neither fish, flesh, nor fowl)、押韵 (rhyme: toil and moil)、反韵 (reverse rhyme: part and parcel)；词汇手段 -- 同义词迭用 (reiteration: pick and choose)、重复 (repetition: by and by)、反义词并置 (juxtaposition: day and night)；比喻手段 -- 明喻 (simile)、隐喻 (metaphor)、换喻 (metonymy)、拟人 (personification)、夸张 (hyperbole)。</span></p>
+<p><span class="kp">结构变异</span>：添加 (Addition: in condition &#8594; in good condition)、删除 (Deletion: the last straw &#8592; It is the last straw that breaks the camel's back)、位置调换 (Position-shifting: day and night = night and day)、替换 (Replacement: break one's word vs keep one's word)、分拆 (Dismantlement)。</p>
+
+<h3 id="s40388520">习语来源 <span class="tag-freq">高频</span></h3>
+<p>文学作品（莎士比亚最多）、圣经 (Judas's kiss, turn the other cheek)、神话 (Pandora's box, Achilles' heel, Sphinx's riddle)、寓言 (sour grapes, cat's paw, cry wolf, kill the goose that laid the golden eggs)、历史事件 (meet one's Waterloo, burn one's boats)、动物比喻 (as wise as owls, swan's song)、日常生活 (as cool as cucumber, on the rocks, spill the beans)。</p>
+
+
+
+</body>
+</html>
